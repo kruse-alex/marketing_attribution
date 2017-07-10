@@ -5,3 +5,8 @@ This script focusses on the algorithmic approach of marketing attribution which 
 
 There is a great package in R called ChannelAttribution by Davide Altomare which provides you with the right functions to build a markov based attribution model.
 
+![alt text](https://github.com/kruse-alex/codingdurer_twitter/blob/master/twitter_result.jpg)
+
+![alt text](https://github.com/kruse-alex/codingdurer_twitter/blob/master/twitter_result.jpg)
+
+
